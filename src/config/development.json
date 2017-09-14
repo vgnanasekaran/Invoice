@@ -1,0 +1,8 @@
+{
+    "mysql": {
+        "host": "localhost",
+        "database": "mobilere",
+        "user": "root",
+        "password": "root"
+    }
+}
